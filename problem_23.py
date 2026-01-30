@@ -8,5 +8,5 @@ for num in numbers:
     if num > 0:
         positive += 1
     else:
-        negative += 1
+        negative +=  1
 print(f"Positive: {positive}, Negative: {negative}")
